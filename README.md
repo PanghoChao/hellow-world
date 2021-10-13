@@ -24,3 +24,10 @@ i want coding and develop my spec
 
 
 attendance check
+
+
+>마크다운사용법
+>1문법
+>>헤더
+>>>큰제목
+>>>>#뒤에 한칸 뛰고 쓴다.
