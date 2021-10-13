@@ -26,7 +26,7 @@ i want coding and develop my spec
 attendance check
 
 
->마크다운사용법
+마크다운사용법
 >1문법
 >>헤더
 >>>큰제목
